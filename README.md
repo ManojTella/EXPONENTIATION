@@ -14,14 +14,17 @@ To write a program to find the exponentiation of a number.
 ## Program:
 ```
 /*
-Program to find the exponentiation of a number.
-Developed by: 
-RegisterNumber: 
+#Program to to find the Exponentiation of a number.
+#Developed by: Manoj Guna Sundar Tella
+#RegisterNumber: 21003796
+base = int(input())
+power= int(input())
+print("Exponentiation of a given number:",base**power) 
 */
 ```
 
 ## Output:
-![exponentiation of a number](expo.png)
+![gITHUB LOGO](expo.png)
 
 
 ## Result:
